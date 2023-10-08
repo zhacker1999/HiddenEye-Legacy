@@ -59,9 +59,10 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 1. LOCALXPOSE (https://localxpose.io)
 2. SERVEO (https://serveo.net/)
 3. NGROK (https://ngrok.com/)
-4. LOCALTUNNEL (Package Version) (https://localtunnel.me)
-5. OPENPORT (https://openport.io/)
-6. PAGEKITE (https://pagekite.net/)
+4. note: if you are using NGrok in android so open your hotspot rather thane it's not working.
+5. LOCALTUNNEL (Package Version) (https://localtunnel.me)
+6. OPENPORT (https://openport.io/)
+7. PAGEKITE (https://pagekite.net/)
 
 # SCREENSHOT (Android-Userland)
 
